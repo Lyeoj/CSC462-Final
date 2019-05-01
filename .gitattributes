@@ -1,0 +1,4 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+.pak filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+FullGame/WindowsNoEditor/CSC462/Content/Paks/CSC462-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
